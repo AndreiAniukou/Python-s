@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b44dd43e-8c3f-42e9-a68b-819363909599" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/change_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/change_list_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/change_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/change_list.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,11 +86,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/change_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="675">
+              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/change_list_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="764">
+              <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -119,6 +128,7 @@
         <option value="$PROJECT_DIR$/int_str.py" />
         <option value="$PROJECT_DIR$/Lists.py" />
         <option value="$PROJECT_DIR$/change_list.py" />
+        <option value="$PROJECT_DIR$/change_list_test.py" />
       </list>
     </option>
   </component>
@@ -165,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.change_list">
+  <component name="RunManager" selected="Python.change_list_test">
     <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,27 +189,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="apostrophe" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apostrophe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,6 +239,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="change_list_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/change_list_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="int_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.change_list_test" />
         <item itemvalue="Python.change_list" />
         <item itemvalue="Python.Lists" />
         <item itemvalue="Python.int_str" />
         <item itemvalue="Python.apstr_test" />
-        <item itemvalue="Python.apostrophe" />
       </list>
     </recent_temporary>
   </component>
@@ -292,6 +302,14 @@
       <option name="presentableId" value="Default" />
       <updated>1571135059235</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1571568029089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571568029089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -303,14 +321,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4997353" visible="true" weight="0.3293461" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49920592" visible="true" weight="0.3293461" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39952153" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002647" side_tool="true" weight="0.3293461" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50079405" side_tool="true" weight="0.3293461" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3293461" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -318,6 +336,10 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/variables_test.py">
@@ -378,8 +400,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/change_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="675">
+          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/change_list_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
         </state>
       </provider>
     </entry>
