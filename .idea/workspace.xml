@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b44dd43e-8c3f-42e9-a68b-819363909599" name="Default Changelist" comment="update list learn">
-      <change afterPath="$PROJECT_DIR$/sort_l.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort_l_test.py" afterDir="false" />
+    <list default="true" id="b44dd43e-8c3f-42e9-a68b-819363909599" name="Default Changelist" comment="sort test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_l_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort_l_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sort_l_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="750">
+              <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -318,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571579314482</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sort test">
+      <created>1571604384318</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571604384318</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -334,7 +340,7 @@
     <frame x="330" y="23" width="1931" height="1346" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1773425" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17893066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -358,7 +364,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="update list learn" />
-    <option name="LAST_COMMIT_MESSAGE" value="update list learn" />
+    <MESSAGE value="sort test" />
+    <option name="LAST_COMMIT_MESSAGE" value="sort test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/variables_test.py">
@@ -440,8 +447,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sort_l_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="750">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
         </state>
       </provider>
     </entry>

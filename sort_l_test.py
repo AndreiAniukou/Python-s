@@ -41,3 +41,12 @@ print(car_name)
 
 car_name.sort()
 print('\n' + str(car_name))
+
+car_name.sort(reverse=True)
+print(car_name)
+
+print(sorted(car_name))
+print(sorted(car_name, reverse=True))
+
+car_name.reverse()
+print(car_name)
