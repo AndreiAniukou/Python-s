@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b44dd43e-8c3f-42e9-a68b-819363909599" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/if_for_smt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/number_list.py" afterDir="false" />
+    <list default="true" id="b44dd43e-8c3f-42e9-a68b-819363909599" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/number_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/number_list.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apostrophe.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apstr_test.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,11 +86,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/number_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="225">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/number_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -133,14 +133,15 @@
         <option value="$PROJECT_DIR$/sort_l_test.py" />
         <option value="$PROJECT_DIR$/if_for_smt.py" />
         <option value="$PROJECT_DIR$/number_list.py" />
+        <option value="$PROJECT_DIR$/number_test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="330" />
+    <option name="x" value="405" />
     <option name="y" value="23" />
-    <option name="width" value="1931" />
-    <option name="height" value="1346" />
+    <option name="width" value="1757" />
+    <option name="height" value="1345" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -179,28 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.number_list">
-    <configuration name="change_list_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/change_list_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.number_test">
     <configuration name="if_for_smt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,6 +215,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="number_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.number_test" />
         <item itemvalue="Python.number_list" />
         <item itemvalue="Python.if_for_smt" />
         <item itemvalue="Python.sort_l_test" />
         <item itemvalue="Python.sort_l" />
-        <item itemvalue="Python.change_list_test" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571691737510</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Range">
+      <created>1571693917228</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571693917228</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -347,15 +355,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="330" y="23" width="1931" height="1346" extended-state="0" />
+    <frame x="405" y="23" width="1757" height="1345" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17893066" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19883382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49920592" visible="true" weight="0.3293461" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49920592" visible="true" weight="0.6017558" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39952153" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -376,7 +384,8 @@
     <MESSAGE value="update list learn" />
     <MESSAGE value="sort test" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="Range" />
+    <option name="LAST_COMMIT_MESSAGE" value="Range" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/variables_test.py">
@@ -472,8 +481,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/number_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
