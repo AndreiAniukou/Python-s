@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b44dd43e-8c3f-42e9-a68b-819363909599" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cotezh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_elif_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_if.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,11 +41,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/if_elif_else.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_if.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -84,12 +102,14 @@
         <option value="$PROJECT_DIR$/srez_test.py" />
         <option value="$PROJECT_DIR$/cotezh.py" />
         <option value="$PROJECT_DIR$/test_tuple.py" />
+        <option value="$PROJECT_DIR$/if_elif_else.py" />
+        <option value="$PROJECT_DIR$/test_if.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="444" />
-    <option name="y" value="23" />
+    <option name="x" value="400" />
+    <option name="y" value="27" />
     <option name="width" value="1757" />
     <option name="height" value="1345" />
   </component>
@@ -130,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_tuple">
+  <component name="RunManager" selected="Python.test_if">
     <configuration name="cotezh" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="number_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="if_elif_else" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,28 +184,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="srez" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/srez.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if_elif_else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,6 +206,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/srez_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_if" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_if.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_if" />
+        <item itemvalue="Python.if_elif_else" />
         <item itemvalue="Python.test_tuple" />
         <item itemvalue="Python.cotezh" />
         <item itemvalue="Python.srez_test" />
-        <item itemvalue="Python.srez" />
-        <item itemvalue="Python.number_test" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571932684671</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update tuple">
+      <created>1571934450635</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571934450635</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -319,7 +346,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="444" y="23" width="1757" height="1345" extended-state="0" />
+    <frame x="400" y="27" width="1757" height="1345" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20116618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -350,7 +378,8 @@
     <MESSAGE value="Range" />
     <MESSAGE value="number" />
     <MESSAGE value="update 'srez'" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 'srez'" />
+    <MESSAGE value="update tuple" />
+    <option name="LAST_COMMIT_MESSAGE" value="update tuple" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/variables_test.py">
@@ -481,8 +510,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_tuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if_elif_else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
